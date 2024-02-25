@@ -1,0 +1,9 @@
+[submodule "DiggyDino-Deliverer"]
+	path = DiggyDino-Deliverer
+	url = git@github.com:RowdyHacks-2024/DiggyDino-Deliverer.git
+[submodule "DiggyDino-Detector"]
+	path = DiggyDino-Detector
+	url = git@github.com:RowdyHacks-2024/DiggyDino-Detector.git
+[submodule "DiggyDino-Display"]
+	path = DiggyDino-Display
+	url = git@github.com:RowdyHacks-2024/DiggyDino-Display.git
